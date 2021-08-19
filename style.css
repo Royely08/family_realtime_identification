@@ -2,21 +2,46 @@
     font-size: 23px;
     width: 100%;
     margin: 0;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px lightcoral;
     font-family: 'Style Script', cursive;
 }
 
 .heading_div{
     float: none;
-    background: white;
+    background: rgb(242, 207, 248);
     padding: 10px;
     border-radius: 20px;
     color: black;
-    box-shadow: 5px 5px 5px grey;
+    box-shadow: 5px 5px 5px lightcoral;
     font-family: 'Style Script', cursive;
 }
 
 .heading_div2{
     font-size: 18px;
+    font-family: 'Style Script', cursive;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    font-family: 'Style Script', cursive;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: black;
+    width: 100%;
+    background-color: lightpink;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    font-family: 'Style Script', cursive;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
     font-family: 'Style Script', cursive;
 }
